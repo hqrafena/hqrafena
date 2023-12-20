@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Rafena. Nice to meet you
 - 👀 I am currently pursuing Master of Science in Information Systems at Central Michigan University
-- 🌱 I’m currently learning R programming language and pursuing Lean Six Sigma Green Belt and CC (Certified in Cybersecurity) certification of (ISC)2
-- 🙋 I’m seeking industry experience in data science, cybersecurity and project management
+- 🌱 I’m currently learning R programming and Tableau
+- 🙋 I’m seeking industry experience in data science and project management
 - 📫 You can reach me at hoquerafena001@gmail.com
 
 <!---

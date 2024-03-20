@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Rafena. Nice to meet you
-- 👀 I am currently pursuing Master of Science in Information Systems at Central Michigan University
-- 🌱 I’m currently learning R programming and Tableau
-- 🙋 I’m seeking industry experience in data science and project management
+- 👀 I am currently pursuing Master of Science in Information Systems at Central Michigan University (Class MAY 2024).
+- 🌱 I’m proficient in Tableau, SQL, PL/SQL, analyzing, designing and developing dashboards and reports.
+- 🙋 I'm seeking Tableau Developer job opportunities.
 - 📫 You can reach me at hoquerafena001@gmail.com
 
 <!---
